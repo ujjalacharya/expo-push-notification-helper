@@ -1,0 +1,43 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "txvnt",
+      "name": "Tomás Vélez Núñez",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/43381969?v=4",
+      "profile": "https://github.com/txvnt",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ujjalacharya",
+      "name": "Ujjal Acharya",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19649166?v=4",
+      "profile": "http://www.ujjalacharya.com.np",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "just1and0",
+      "name": "Oluwatobi Shokunbi ",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17249207?v=4",
+      "profile": "https://linksnest.com/just1and0",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "expo-push-notification-helper",
+  "projectOwner": "just1and0",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

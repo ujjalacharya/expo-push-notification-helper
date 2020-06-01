@@ -1,4 +1,7 @@
 # expo-push-notification-helper 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 [![Build Status](https://travis-ci.com/just1and0/object-to-array-convert.svg?branch=master)](https://travis-ci.com/just1and0/expo-push-notification-helper/)
@@ -41,7 +44,7 @@ import { initnotify } from 'expo-push-notification-helper';
 import { initnotify } from 'expo-push-notification-helper';
 
 //and then use like so
-         initnotify().the((data)=>{
+         initnotify().then((data)=>{
               if(data){
                 //get token
               }else{
@@ -137,3 +140,24 @@ Have a new feature you'd love to add to this project? Make a Send me a pull requ
 ----
 
 This project is licensed under MIT license.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/txvnt"><img src="https://avatars0.githubusercontent.com/u/43381969?v=4" width="100px;" alt=""/><br /><sub><b>Tomás Vélez Núñez</b></sub></a><br /><a href="https://github.com/just1and0/expo-push-notification-helper/commits?author=txvnt" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.ujjalacharya.com.np"><img src="https://avatars3.githubusercontent.com/u/19649166?v=4" width="100px;" alt=""/><br /><sub><b>Ujjal Acharya</b></sub></a><br /><a href="https://github.com/just1and0/expo-push-notification-helper/commits?author=ujjalacharya" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://linksnest.com/just1and0"><img src="https://avatars3.githubusercontent.com/u/17249207?v=4" width="100px;" alt=""/><br /><sub><b>Oluwatobi Shokunbi </b></sub></a><br /><a href="https://github.com/just1and0/expo-push-notification-helper/commits?author=just1and0" title="Code">💻</a> <a href="https://github.com/just1and0/expo-push-notification-helper/commits?author=just1and0" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
